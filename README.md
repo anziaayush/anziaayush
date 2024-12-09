@@ -5,7 +5,7 @@ I am an enthusiastic **Autonomous Vehicle Engineering** student at **TH Ingolsta
 
 ## 💻 Technical Skills
 - **Programming Languages:** Python, C
-- **Tools & Technologies:** Git, Linux, MATLAB, and Embedded Systems
+- **Tools & Technologies:** Git, MATLAB, and Embedded Systems
 - **Languages:** Fluent in German (B2.2 certified), English, and Hindi
 
 ## 🌟 Interests
