@@ -4,7 +4,7 @@
 I am an enthusiastic **Autonomous Vehicle Engineering** student at **TH Ingolstadt**, passionate about exploring the future of mobility and innovation in automotive technology. My journey includes hands-on experience as an **Engineering Intern at Mahindra**, where I gained practical knowledge and honed my skills.
 
 ## 💻 Technical Skills
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C++
 - **Tools & Technologies:** Git, MATLAB, and Embedded Systems
 - **Languages:** Fluent in German (B2.2 certified), English, and Hindi
 
